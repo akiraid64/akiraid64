@@ -113,14 +113,24 @@ I'm a **Full-Stack Developer** specializing in **AI-powered automation** and int
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akiraid64&theme=tokyonight" alt="Profile Summary"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akiraid64&theme=tokyonight&utcOffset=5.5" alt="Commit Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akiraid64&theme=tokyonight" alt="Repos per Language"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akiraid64&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akiraid64&theme=tokyonight&utcOffset=5.5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akiraid64&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+### 📊 2025 Contributions: **515+** | 🏆 Public Repos: **18** | 📅 GitHub Member: **3+ years**
+
+</div>
 
 ---
 
