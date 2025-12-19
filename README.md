@@ -65,18 +65,24 @@ I'm a **Full-Stack Developer** specializing in **AI-powered automation** and int
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akiraid64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akiraid64&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiraid64&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=akiraid64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com?user=akiraid64&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akiraid64&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</p>
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akiraid64&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&exclude_repo=)
+
+</div>
+
+<div align="center">
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=akiraid64&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/akiraid64)
+
+</div>
 
 ---
 
