@@ -67,14 +67,15 @@ I'm a **Full-Stack Developer** specializing in **AI-powered automation** and int
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=akiraid64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akiraid64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
 ![](https://streak-stats.demolab.com?user=akiraid64&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akiraid64&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&exclude_repo=)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akiraid64&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akiraid64&theme=tokyonight)
 
 </div>
 
