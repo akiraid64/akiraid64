@@ -63,30 +63,6 @@ I'm a **Full-Stack Developer** specializing in **AI-powered automation** and int
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akiraid64&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
-![](https://streak-stats.demolab.com?user=akiraid64&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akiraid64&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akiraid64&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=akiraid64&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/akiraid64)
-
-</div>
-
----
-
 ## 🏆 Featured Public Projects
 
 ### 🤖 AI & Machine Learning
